@@ -1,3 +1,7 @@
+Project from tutorial provided by: 
+
+https://www.mongodb.com/blog/post/building-an-exercise-tracker-mern-tutorial?utm_campaign=Int_CLD_MERN%20Stack%20Tutorial_06_20_WW_Autoresponder&utm_source=eloqua&utm_medium=email&utm_term=Learn%20MERN%20with%20MongoDB
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
